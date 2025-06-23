@@ -1,7 +1,7 @@
 # 🚀 NSFW Auto Bot
 
 > A Discord bot that automatically sends random NSFW content to a specified channel using the Nekobot.xyz API.
-> > Send nsfw images on embed in specific channel id, every 2 seconds.
+> > Send nsfw images on embed in specific channel id, every 5 seconds.
 > > Remove yaoi & futa if you not into gay shit.
 
 ****
